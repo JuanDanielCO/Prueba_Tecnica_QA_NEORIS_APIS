@@ -1,0 +1,7 @@
+
+
+******************CONCLUSIONES****************
+
+1. Se realiza 4 peticiones en una colección a partir de las cuatro consultas solicitadas en la prueba de APIS
+2. Se agregaron TestCripts con el fin de complementar el ejercicio
+3. Ver el archivo README.txt para más información
